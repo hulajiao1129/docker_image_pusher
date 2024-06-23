@@ -8,3 +8,4 @@ mysql:8.0.31
 redis
 nacos/nacos-server
 nginx
+nacos/nacos-server:v2.3.1
